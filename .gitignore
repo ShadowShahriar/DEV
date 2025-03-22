@@ -1,0 +1,9 @@
+*.o
+*.h
+*.exe
+*.ini
+.old
+*.txt
+desktop.ini
+**/images/uncompressed/*
+**/draft.md
