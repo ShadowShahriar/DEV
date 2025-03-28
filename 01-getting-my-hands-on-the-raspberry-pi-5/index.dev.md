@@ -92,6 +92,10 @@ Unplug the micro SD card or SSD once the installation is complete.
 
 ## Hardware Connections
 
+I have created a YouTube video that you can follow along:
+
+{% embed https://www.youtube.com/watch?v=uxGKJFrnxT0 %}
+
 1.  If you're using a micro SD card, insert it into the Raspberry Pi's SD card slot. If you're using an external SSD like I am, connect the SSD to one of the **USB 3.0 ports** (the blue ones).
 
 2.  Connect the USB dongle for the mouse and keyboard combo to one of the **USB 2.0 ports** (the black ones).
